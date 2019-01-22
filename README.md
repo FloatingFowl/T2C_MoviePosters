@@ -4,6 +4,10 @@ TODO: Change the palette output format
 
 ### Dataset
 
+`TPN_dataset/metadata` : Contains the movie details in json formats. Use the notebook to convert into following dataset.
+
+`TPN_dataset/traindata` : Contains all, train and test data for genres, movie names, plots and palettes.
+
 ### Samples
 
 colorThief palette examples at https://drive.google.com/open?id=1DeUluYLUbki8lRsbj2nu9zD1imz2JTKO.
@@ -14,3 +18,4 @@ colorThief palette examples at https://drive.google.com/open?id=1DeUluYLUbki8lRs
 
 ### Models
 
+`TPN_models/safe_RGB` : 2000 epoch trained models for TPN on safe RGB palettes
